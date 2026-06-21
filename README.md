@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="screenshot" alt="/img/shot.png" width="800">
+    <img src="/img/shot.png" alt="screenshot" width="800">
 </p>
 A simple command-line tool to turn text into ASCII art.
 
